@@ -1,0 +1,126 @@
+.bs-content {
+    margin: 0px 25px 0px 25px;
+}
+.bs-p-center {
+    text-align: center;
+}
+.bs-video {
+    width: 60%;
+    justify-content: center;
+}
+.bs-flex {
+    display: flex;
+    justify-content: center;
+}
+.bs-p-bold {
+    font-weight: bold;
+}
+.bs-content p {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 15px;
+
+    margin-top: 15px;
+    margin-bottom: 15;
+
+    color: #3f3f3f;
+}
+.bs-img {
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+
+.basics img {
+    width: 60%;
+    justify-content: center;
+}
+
+.img35 {
+    width: 20%;
+    justify-content: center;
+}
+
+.img75 {
+    width: 40%;
+    justify-content: center;
+}
+
+.bs-p-center {
+    text-align: center;
+}
+
+.bs-p-cyan {
+    font-weight: bold;
+    color: #00b3b1;
+}
+
+.bs-p-red {
+    font-weight: bold;
+    color: #ff4553;
+}
+
+.bs-p-blue {
+    font-weight: bold;
+    color: #3262b4;
+}
+
+.bs-p-bold {
+    font-weight: bold;
+}
+
+.bs-p-pops {
+    font-weight: bold;
+    color: #47d5ec;
+}
+
+.bs-p-kids {
+    font-weight: bold;
+    color: #fdc000;
+}
+
+.bs-p-anime {
+    font-weight: bold;
+    color: #fe8ed1;
+}
+
+.bs-p-vocaloid {
+    font-weight: bold;
+    color: #c8cddd;
+}
+
+.bs-p-variety {
+    font-weight: bold;
+    color: #00ca21;
+}
+
+.bs-p-classics {
+    font-weight: bold;
+    color: #ddd31a;
+}
+
+.bs-p-gamemusic {
+    font-weight: bold;
+    color: #cc89eb;
+}
+
+.bs-p-namco {
+    font-weight: bold;
+    color: #ff7027;
+}
+
+.bs-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.bs-difficulties {
+    width: 130px;
+}
+
+.bs-stars {
+    text-align: center;
+}
+
+video, img{
+    max-width:980px;
+}
